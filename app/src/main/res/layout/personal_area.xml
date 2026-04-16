@@ -89,12 +89,11 @@
 
     <ImageView
         android:id="@+id/imageView11"
-        android:layout_width="371dp"
-        android:layout_height="214dp"
+        android:layout_width="367dp"
+        android:layout_height="188dp"
         android:layout_marginStart="5dp"
         android:layout_marginTop="200dp"
         android:layout_marginEnd="5dp"
-        android:layout_marginBottom="-20dp"
         android:src="@drawable/image_6"
         app:layout_constraintBottom_toBottomOf="@+id/imageView9"
         app:layout_constraintEnd_toEndOf="parent"
