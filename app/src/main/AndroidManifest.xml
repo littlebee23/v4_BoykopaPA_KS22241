@@ -13,7 +13,7 @@
         android:theme="@style/Theme.KS22241_BoykoPA_v4">
 
         <activity
-            android:name=".MapActivity"
+            android:name=".MainActivity"
             android:exported="false" />
 
         <activity
